@@ -9,6 +9,8 @@ b = "5"
 c = []
 d = {}
 
+print(a, b, c, d)
+
 # 2. 연산
 print("a+5", a+5, "a-a", a-a, "a*a", a*a, "a/a", a/a, "a**2", a**2, "a^2", a^2)
 

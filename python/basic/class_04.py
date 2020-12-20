@@ -16,7 +16,9 @@ for number in whatever:
 for number in range(0, 10):
     print('number', number)
     pass
+
 print("#############")
+
 # 2. while
 loop = 0
 while loop<10:
@@ -24,6 +26,7 @@ while loop<10:
     loop+=1
     print('loop', loop)
     pass
+
 print("#############")
 
 loop = 0
