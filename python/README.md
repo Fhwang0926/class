@@ -8,3 +8,7 @@
 • 앱(App)과 웹(WEB) 프로그램 개발 목적
 • 웹 서버, 과학 연산, 사물 인터넷(IOT), 인공지능, 게임 등의 프로
 그램 개발하는 강력한 도구
+
+
+- required install module
+pip install nmap  pyfiglet
