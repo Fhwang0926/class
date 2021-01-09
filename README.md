@@ -22,7 +22,7 @@ require min python version : 3.6 +
 Class Level
  - Basic: (Class 1~7)
         
-        This class is spend 8 ~ 16 hour
+        This class is spend 40 hour
         - what is python and vscode
         - what is defult data type and var
         - what is operation(&&, || ==, !=, <, >....)
@@ -31,20 +31,21 @@ Class Level
         - what is function and class
         - what is Module
 
- - Standard: (Class 5~10)
+ - Standard: (Class 1 ~ 4)
 
-        This class is spend 4 ~ 6 hour
+        This class is spend 16 hour
+        - Exception
+        - File parser
+        - Regex
         - socket communication
-        - crawling
-        - MITM Attack
-        - python with PYQT
 
- - Pro: (Class 11~15)
+ - Pro: (Class 1 ~ 5)
 
         This class is spend 6 ~ 12 hour, case by case
-        - socket communication
-        - crawling
-        - MITM Attack
+        - default web crawling
+        - virtual browser crawling
+        - port scan
+        - ARP spoofing
         - python with PYQT
   
 
