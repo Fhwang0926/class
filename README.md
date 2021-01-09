@@ -20,13 +20,16 @@ support langague list
 require min python version : 3.6 +
 
 Class Level
- - Basic: (Class 1~4)
+ - Basic: (Class 1~7)
         
-        This class is spend 2 ~ 4 hour
-        - socket communication
-        - crawling
-        - MITM Attack
-        - python with PYQT
+        This class is spend 8 ~ 16 hour
+        - what is python and vscode
+        - what is defult data type and var
+        - what is operation(&&, || ==, !=, <, >....)
+        - what is loop(for and while)
+        - what is list and touple
+        - what is function and class
+        - what is Module
 
  - Standard: (Class 5~10)
 
