@@ -28,8 +28,8 @@ for x in main:        # ①번 for문
 
 print("-"*30)
 
-import os 
-os.system('cls')
+# import os 
+# os.system('cls')
 
 # 스도쿠 형태 만들기
 sudoku = []
