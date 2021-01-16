@@ -28,6 +28,9 @@ for x in main:        # ①번 for문
 
 print("-"*30)
 
+import os 
+os.system('cls')
+
 # 스도쿠 형태 만들기
 sudoku = []
 index = 1
@@ -35,7 +38,7 @@ for row in main:
   r = []
   for num in range(index, 10):
     r.append(num)
-  for num in range(10-len(r), 0, -1):
+  for num in range(1, 10-len(r), 1):
     r.append(num)
   sudoku.append(r)
   index += 1
