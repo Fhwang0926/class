@@ -1,17 +1,19 @@
 # Hello, computer language
 
-What language do you want to learn?
-What language are you interested in?
-What basic language do you want to learn?
+Q. What language do you want to learn?
+
+Q. What language are you interested in?
+
+Q. What do you want to more prefer? fast learn? or learn deeply?
 
 
 # Summary
 here contents is class source
 support langague list
 
- - python
- - nodejs
- - go
+ - python (already)
+ - nodejs - building
+ - go - building
 
 
 ![CLASS-STEP-BY-STEP](/img/stepbystep.png)
@@ -49,9 +51,14 @@ Class Level
         - python with PYQT
   
 
-# nodejs lts 12 +
+# [nodejs](https://nodejs.org/en/) lts 12 +
 
  - not already
+
+# [GoLang](https://golang.org/) 
+
+ - not already
+ - this langague depend Kernel minimum version present
 
 
 
